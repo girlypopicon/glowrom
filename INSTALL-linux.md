@@ -40,7 +40,7 @@ Then run `tvui`. Press `,` for Settings (put your TMDB key under Accounts), `?` 
 ## Useful
 - `tvui version`, `tvui logs`, and `tvui report` (a bug-report file with your keys removed: read it before you share it)
 - Settings → System shows what is running and warns about duplicate copies
-- Torrents are optional and need Docker: see the `torrent/` folder. It is the most advanced part; skip it at first.
+- The downloader is optional and needs Docker: see the `torrent/` folder, and `VPN-SETUP.md` for setting up your VPN (Mullvad, Proton VPN, NordVPN or any WireGuard VPN). It is the most advanced part; skip it at first.
 
 ## About the files in this download
 `tvui` is the whole program (the neon font, the idle screen and the phone remote page are inside it). It stores its data

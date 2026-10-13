@@ -50,7 +50,7 @@ comfortable with a terminal.
 
 ## Something went wrong?
 
-Run `tvui report`. It writes a text file with your versions, settings (never your keys) and the last lines of the log, with
+Run `glowrom report`. It writes a text file with your versions, settings (never your keys) and the last lines of the log, with
 anything secret removed. Read it, then [open an issue](https://github.com/girlypopicon/glowrom/issues) and attach it.
 
 ## Terms

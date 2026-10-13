@@ -65,7 +65,7 @@ is used once and never saved). Or choose **2** and paste a file from **https://m
 - Make sure the server you picked allows **P2P / file sharing**: some providers block it on other servers.
 - On a slow or unusual connection, a smaller packet size can help. That is an advanced setting (`WG_MTU` in `torrent/.env`).
 - To see what the VPN container is doing: `docker logs tv-vpn`.
-- `tvui report` writes a bug-report file with your keys removed, to attach to an issue.
+- `glowrom report` writes a bug-report file with your keys removed, to attach to an issue.
 
 ## What is saved, and where
 Your key and the server files are stored on your own computer, in `torrent/vpn-confs/` (readable only by you). Nothing is sent

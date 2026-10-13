@@ -3,7 +3,7 @@
 Shared by the Linux app, the Windows app and the website, so they all look like the same thing.
 
 ## Glowrom Pink
-**`#FFD0E6`** (RGB 255, 208, 230). The tint of the subtitles: noticeably pink, still easy to read. Used with a dark plum
+**`#FFA3D1`** (RGB 255, 163, 209). The tint of the subtitles: noticeably pink, still easy to read. Used with a dark plum
 outline **`#1A0C14`**. Chosen by eye from rendered comparisons (plain white, a barely-there pink, this one, and a stronger
 pink). It is the colour that says "you're using glowrom".
 
@@ -31,4 +31,4 @@ Deep twilight indigo **`#0B0720`**.
 side of messages, except the rapid ones (volume, seeking).
 
 ## In ASS (the player's subtitle format) colours are written blue-green-red
-Glowrom Pink is `&HE6D0FF&` there. The neon table above is the glow in normal red-green-blue order.
+Glowrom Pink is `&HD1A3FF&` there. The neon table above is the glow in normal red-green-blue order.
